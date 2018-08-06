@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/priyavarthini/priyavarthin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+### 1. Javascript based restaurant finder app
+[https://priyavarthini.github.io/js_google_maps](https://priyavarthini.github.io/js_google_maps)
+
+
+### 2. ReactJS based Restaurant finder app
+[https://priyavarthini.github.io/react_google_maps](https://priyavarthini.github.io/react_google_maps)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
